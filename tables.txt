@@ -1,0 +1,6 @@
+create table employee(id int primary key not null auto_increment, name varchar(20),
+age int(3), location varchar(20));
+
+Select * from employee;
+
+DB Name = employeedb
